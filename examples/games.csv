@@ -1,0 +1,4 @@
+player_id,minutes,points,fgm,fga,tpm,tpa,ftm,fta,rebounds,assists,steals,blocks,turnovers
+P01,25,16,6,12,2,5,2,2,5,4,1,0,2
+P01,30,22,8,16,3,7,3,4,7,6,2,1,3
+P02,20,10,4,9,1,3,1,2,8,2,0,2,1
